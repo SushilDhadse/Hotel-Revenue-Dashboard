@@ -6,8 +6,8 @@ The Scoop
 In a nutshell, we wanted answers to these burning questions:
 
 1. Is our hotel revenue throwing a party and growing every year?
-2.Should we give our parking a makeover and make it bigger?
-3.What's the gossip in the data? Any trends sipping coffee in the corner?
+2. Should we give our parking a makeover and make it bigger?
+3. What's the gossip in the data? Any trends sipping coffee in the corner?
 
 **Tools of the Trade**
 Power BI: Picture this as our data artist, turning raw numbers into a visual masterpiece. It's like a magic wand for understanding revenue trends.

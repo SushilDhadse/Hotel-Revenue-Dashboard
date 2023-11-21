@@ -5,13 +5,13 @@ Welcome to our Hotel Revenue Analysis project – where data meets hospitality i
 The Scoop
 In a nutshell, we wanted answers to these burning questions:
 
-1. Is our hotel revenue throwing a party and growing every year?
+1. **Is our hotel revenue throwing a party and growing every year?**
 Using the power of data analytics, I've charted the hotel's revenue trends over the years. The numbers don't lie—our revenue has been gradually increasing, showcasing a consistent upward trajectory! 🌟
 
-2. Should we give our parking a makeover and make it bigger?
+2. **Should we give our parking a makeover and make it bigger?**
 Wondering about parking space? I dove deep into the data, and the insights point towards a potential need for an expansion. The findings suggest that there is currently no need for a parking upgrade. 🚗💰
 
-3. What's the gossip in the data? Any trends sipping coffee in the corner?
+3. **What's the gossip in the data? Any trends sipping coffee in the corner?**
 Beyond these insights, I've unearthed some intriguing trends hidden in the data. These trends are like gold nuggets, providing valuable insights for strategic decision-making. 🧐
 
 **Tools of the Trade**
